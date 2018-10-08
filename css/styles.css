@@ -270,3 +270,22 @@ header nav ul li a {
 #contact .button-3:hover {
 	background-color: #ffa700;
 }
+
+/* FOOTER */
+
+footer {
+	height: 260px;
+	background-color: #444;
+	text-align: center;
+}
+
+footer h1 {
+	color: #fff;
+	padding-top: 80px;
+}
+
+footer .Copyright {
+	color: #ffa700;
+	font-size: 13px;
+	padding-top: 30px;
+}
