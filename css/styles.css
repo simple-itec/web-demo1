@@ -105,6 +105,10 @@ header nav ul li a {
 	border-radius: 3px;
 }
 
+.button-1:hover {
+	background: #02b8dd;
+}
+
 /* STEPS */
 
 #steps .wrapper{
